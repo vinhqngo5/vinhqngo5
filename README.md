@@ -9,7 +9,7 @@
 
 <ul>
   <li>🥳 <img style="margin-left: 4px"src="https://komarev.com/ghpvc/?username=vinhqngo5&color=red" alt="vinhqngo5" /></li>
-  <li>🚀 College student</li>
+  <li>🚀 College student, working as Safety and Security Engineer, which provides large-scale data driven methods for cyber security</li>
   <li>🌱 Learning Web fullstack and Machine learning</li>
 </ul>
 
